@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:0D1117&height=250&section=header&text=Hello,%20I'm%20Siuqk&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Automation%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:0D1117&height=250&section=header&text=Hello,%20I'm%20Siuqk&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -14,44 +14,73 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps...;Automating+all+the+things...;Writing+clean,+efficient+code...;Always+learning+and+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Architecting+scalable+backend+systems;Crafting+responsive,+modern+UIs;Designing+robust+REST+&+GraphQL+APIs;Optimizing+database+performance" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 About Me
-I’m a developer who bridges the gap between complex backend logic and seamless user experiences. I thrive on building tools that automate tedious workflows and creating systems that scale.
+### 👨‍💻 About Me
+I am a Full-Stack Software Engineer focused on building end-to-end web applications. I take products from database schema design and API architecture all the way to component-driven frontends and cloud deployment. I care deeply about clean code, scalable infrastructure, and seamless user experiences.
 
-- 🔭 **Currently working on:** Discord community automation bots & server management scripts
-- 🌱 **Currently learning:** Advanced System Architecture & Rust
-- 👯 **Looking to collaborate on:** Open-source automation tools
-- 💬 **Ask me about:** JavaScript, APIs, Node.js, and script optimization
-- ⚡ **Fun fact:** I spend more time configuring my editor than actually coding.
+- 🔭 **Currently working on:** A scalable SaaS platform using Next.js, Node.js, and PostgreSQL
+- 🌱 **Currently learning:** Microservices architecture and advanced caching with Redis
+- 🤝 **Looking to collaborate on:** Full-stack open-source projects or complex web applications
+- 💬 **Ask me about:** React state management, API design, relational databases, and CI/CD
+- ⚡ **Fun fact:** I can debug a CORS error in my sleep.
 
 ---
 
-### 💻 Arsenal & Tech Stack
+### ⚙️ My Development Workflow
+What I actually do day-to-day to ship reliable software:
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+1. **System Design:** Drafting entity-relationship diagrams (ERDs) and planning RESTful/GraphQL endpoints before writing a single line of code.
+2. **Backend Development:** Writing secure, efficient server logic, managing middleware, handling authentication (JWT/OAuth), and optimizing SQL queries.
+3. **Frontend Implementation:** Translating UI/UX designs into responsive, accessible React components and managing complex client-side state.
+4. **DevOps & Delivery:** Containerizing applications with Docker, writing test suites, and setting up GitHub Actions for automated deployment.
 
-**Frontend & Design**
+---
+
+### 💻 Comprehensive Tech Stack
+
+**Frontend Frameworks & Styling**
 <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
-**Backend, DB & Tools**
+**Backend & APIs**
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+**Databases & Caching**
+<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+
+**Infrastructure, DevOps & Testing**
+<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+
+---
+
+### 📂 Featured Projects
+
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Project Alpha** | A full-stack e-commerce dashboard with real-time inventory tracking and secure payment gateways. | `Next.js`, `Node.js`, `PostgreSQL`, `Stripe API` | [Repo](#) \| [Live Demo](#) |
+| **Project Beta** | A collaborative project management tool featuring drag-and-drop Kanban boards and web-socket notifications. | `React`, `Express`, `MongoDB`, `Socket.io` | [Repo](#) \| [Live Demo](#) |
+
+*(Note: Replace the links and project details above with your actual portfolio work as you build them!)*
 
 ---
 
@@ -80,9 +109,5 @@ I’m a developer who bridges the gap between complex backend logic and seamless
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siuqk&label=Profile%20Views&color=2ECC71&style=flat-square" alt="Profile Views" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
+  <img src="https://komarev.com/ghpvc/?username=Siuqk&label=Profile%20Views&color=3178C6&style=flat-square" alt="Profile Views" />
 </div>

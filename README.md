@@ -22,21 +22,11 @@
 ### 👨‍💻 About Me
 I am a Full-Stack Software Engineer focused on building end-to-end web applications. I take products from database schema design and API architecture all the way to component-driven frontends and cloud deployment. I care deeply about clean code, scalable infrastructure, and seamless user experiences.
 
-- 🔭 **Currently working on:** A scalable SaaS platform using Next.js, Node.js, and PostgreSQL
+- 🔭 **Currently working on:** A Discord moderation bot for automated user management and server administration
 - 🌱 **Currently learning:** Microservices architecture and advanced caching with Redis
 - 🤝 **Looking to collaborate on:** Full-stack open-source projects or complex web applications
 - 💬 **Ask me about:** React state management, API design, relational databases, and CI/CD
 - ⚡ **Fun fact:** I can debug a CORS error in my sleep.
-
----
-
-### ⚙️ My Development Workflow
-What I actually do day-to-day to ship reliable software:
-
-1. **System Design:** Drafting entity-relationship diagrams (ERDs) and planning RESTful/GraphQL endpoints before writing a single line of code.
-2. **Backend Development:** Writing secure, efficient server logic, managing middleware, handling authentication (JWT/OAuth), and optimizing SQL queries.
-3. **Frontend Implementation:** Translating UI/UX designs into responsive, accessible React components and managing complex client-side state.
-4. **DevOps & Delivery:** Containerizing applications with Docker, writing test suites, and setting up GitHub Actions for automated deployment.
 
 ---
 
@@ -75,12 +65,11 @@ What I actually do day-to-day to ship reliable software:
 
 ### 📂 Featured Projects
 
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Project Alpha** | A full-stack e-commerce dashboard with real-time inventory tracking and secure payment gateways. | `Next.js`, `Node.js`, `PostgreSQL`, `Stripe API` | [Repo](#) \| [Live Demo](#) |
-| **Project Beta** | A collaborative project management tool featuring drag-and-drop Kanban boards and web-socket notifications. | `React`, `Express`, `MongoDB`, `Socket.io` | [Repo](#) \| [Live Demo](#) |
-
-*(Note: Replace the links and project details above with your actual portfolio work as you build them!)*
+<div align="center">
+  <img src="https://placehold.co/400x250/1e2228/ffffff?text=Project+Alpha%0A(Coming+Soon)" alt="Empty Project 1" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://placehold.co/400x250/1e2228/ffffff?text=Project+Beta%0A(Coming+Soon)" alt="Empty Project 2" width="45%" />
+</div>
 
 ---
 

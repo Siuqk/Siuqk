@@ -65,10 +65,14 @@ I am a Full-Stack Software Engineer focused on building end-to-end web applicati
 
 ### 📂 Featured Projects
 
+| Project Name | Description | Links |
+| :--- | :--- | :--- |
+| **Server Sentinel (Discord Bot)** | A custom moderation bot designed to automate server administration for specific guilds. Features programmatic user kicking and dynamic, JSON-structured farewell message dispatching. | [Repo](#) |
+
+<br/>
+
 <div align="center">
-  <img src="https://placehold.co/400x250/1e2228/ffffff?text=Project+Alpha%0A(Coming+Soon)" alt="Empty Project 1" width="45%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://placehold.co/400x250/1e2228/ffffff?text=Project+Beta%0A(Coming+Soon)" alt="Empty Project 2" width="45%" />
+  <img src="./empty-state.svg" alt="Empty Project 2" width="45%" />
 </div>
 
 ---

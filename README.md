@@ -65,13 +65,9 @@ I am a Full-Stack Software Engineer focused on building end-to-end web applicati
 
 ### 📂 Featured Projects
 
-| Project Name | Description | Links |
-| :--- | :--- | :--- |
-| **Server Sentinel (Discord Bot)** | A custom moderation bot designed to automate server administration for specific guilds. Features programmatic user kicking and dynamic, JSON-structured farewell message dispatching. | [Repo](#) |
-
-<br/>
-
 <div align="center">
+  <img src="./empty-state.svg" alt="Empty Project 1" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./empty-state.svg" alt="Empty Project 2" width="45%" />
 </div>
 

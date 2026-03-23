@@ -1,0 +1,22 @@
+<svg width="400" height="250" viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="15" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  
+  <circle cx="80" cy="60" r="1.5" fill="#484F58" opacity="0.6"/>
+  <circle cx="320" cy="80" r="2" fill="#484F58" opacity="0.4"/>
+  <circle cx="280" cy="190" r="1" fill="#484F58" opacity="0.8"/>
+  <circle cx="110" cy="180" r="1.5" fill="#484F58" opacity="0.5"/>
+  <circle cx="200" cy="40" r="1" fill="#484F58" opacity="0.3"/>
+
+  <g transform="translate(170, 55)" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 15L10 25L30 35L50 25L30 15Z" fill="#161B22"/>
+    <path d="M10 25V45L30 55V35" fill="#161B22"/>
+    <path d="M50 25V45L30 55V35" fill="#0D1117"/>
+    <path d="M30 35V55"/>
+    <path d="M22 20L38 29"/>
+    
+    <ellipse cx="30" cy="85" rx="20" ry="5" fill="#010409" stroke="none" opacity="0.6"/>
+  </g>
+
+  <text x="200" y="170" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3" font-weight="bold" text-anchor="middle">It seems dark in here...</text>
+  <text x="200" y="195" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7D8590" text-anchor="middle">Projects are currently brewing</text>
+</svg>

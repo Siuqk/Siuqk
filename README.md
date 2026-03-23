@@ -13,7 +13,22 @@ I am a developer who loves breaking down complex problems and building things th
 - 🔭 Currently working on: **A secret side project**
 - 🌱 Currently learning: **Rust & WebAssembly**
 - 💬 Ask me about: **React, Node.js, Python, and system architecture**
-- 📫 How to reach me: **[siuqk@example.com](mailto:siuqk@example.com)**
+- 📫 How to reach me: **[siuqkk@gmail.com](mailto:siuqkk@gmail.com)**
+
+---
+
+### 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
